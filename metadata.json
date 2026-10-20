@@ -1,0 +1,6 @@
+{
+  "name": "BluesZone: Pentatonic & Triad Soloing Engine",
+  "description": "Interactive guitar fretboard visualizer with pentatonic & blues scales, zone triads, dynamic next-note transition hints, and built-in audio backing tracks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
